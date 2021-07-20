@@ -1,0 +1,32 @@
+{
+	"name": "neuroreactv2",
+	"displayName": "neuroReactv2",
+	"description": "cool theme based in night owl",
+	"publisher": "neuroreact1983",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "neuroReactv2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/neuroTheme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "77ed8c6b-c94f-402c-9c0d-e97912e61afc",
+		"publisherDisplayName": "neuroreact",
+		"publisherId": "c53631b0-bc0d-4de5-a0dc-d29ea807b296"
+	},
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#C80000",
+		"theme": "dark"
+	}
+}
