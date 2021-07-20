@@ -1,7 +1,8 @@
+# COOL VSCODE THEME BASED on NIGHT OWL
 
+## Please feel free to comment or collaborate on anything you like!
 
-VS CODE NEUROREACT THEME. based on night owl.
-
+### neuroreact.dev
 
 
 **Enjoy!**
