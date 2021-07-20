@@ -3,6 +3,10 @@
 	"displayName": "neuroReactv2",
 	"description": "cool theme based in night owl",
 	"publisher": "neuroreact1983",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/doctorDAlvarez/neuroreactv2theme.git"
+	},
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.58.0"
